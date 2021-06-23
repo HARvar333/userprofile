@@ -7,3 +7,8 @@ let result=sayHi()
 
 let b="Coming";
 let name=["czech","india","sri lanka","usa"]
+let student={
+    name:"micheal",
+    usn:45,
+    subject:"PCM"
+}
