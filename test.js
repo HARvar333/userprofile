@@ -12,3 +12,9 @@ let student={
     usn:45,
     subject:"PCM"
 }
+
+function sayHiAgain(){
+    return "hello..again"
+}
+
+let wish =sayHiAgain()
