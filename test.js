@@ -6,3 +6,4 @@ function sayHi(){
 let result=sayHi()
 
 let b="Coming";
+let name=["czech","india","sri lanka","usa"]
