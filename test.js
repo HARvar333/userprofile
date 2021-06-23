@@ -18,3 +18,5 @@ function sayHiAgain(){
 }
 
 let wish =sayHiAgain()
+
+const c= "user admin"
